@@ -1,0 +1,1 @@
+grun ..\src\parser\MiniJava program -tree %*
